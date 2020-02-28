@@ -7,11 +7,11 @@ namespace cidades
         static void Main(string[] args)
         {
             Console.WriteLine("Santos");
-             Console.WriteLine("São Vicente");
-              Console.WriteLine("Peruibe");
-               Console.WriteLine("Praia Grande");
-                Console.WriteLine("Mongaguá");
-                 Console.WriteLine("Itanhaém");
+            Console.WriteLine("São Vicente");
+            Console.WriteLine("Peruibe");
+            Console.WriteLine("Praia Grande");
+            Console.WriteLine("Mongaguá");
+            Console.WriteLine("Itanhaém");
         }
     }
 }
